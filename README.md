@@ -21,5 +21,5 @@ This documentation covers VM layout, networking, storage, deployment, CI/CD, and
 
 ## Audience
 
-DevOps Engineers, System Engineers, and Software Engineers working on CCMS infrastructure and Kubernetes-based deployments.
+DevOps Engineers, System Engineers, and Software Engineers working on OCCMS infrastructure and Kubernetes-based deployments.
 
